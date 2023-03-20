@@ -1,3 +1,3 @@
-# MyProject
+# Unreal Affinity
 
-Developed with Unreal Engine 5
+A short affinity game that uses Ensemble, a rules-based social simulation engine that uses CiF capabilities.
